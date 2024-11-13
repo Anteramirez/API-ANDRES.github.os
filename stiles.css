@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f2f2;
+}
+
+h1 {
+    text-align: center;
+    color: #0f59b9;
+    margin-top: 50px;
+}
+
+form {
+    margin: 0 auto;
+    width: 500px;
+    padding: 20px;
+    background-color: #f7e605;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgb(#0f59b9);
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #0f59b9;
+    text-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    padding: 10px;
+        background-color: #fff;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgb(6, 105, 235);
+        text-align: center;
+        
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #0f59b9;
+    color: #f3f0f0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#PokemonInfoDiv {
+    margin: 0 auto;
+    width: 500px;
+    padding: 20px;
+
+
+
+
+        background-color: #fff;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgb(5, 0, 0);
+        text-align: center;
+
+}
+
+#PokemonInfoDiv img {
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#PokemonInfoDiv p {
+    margin-bottom: 10px;
+}
+
+img {
+    width: 30%;
+    height: 10%;
+    
+}
